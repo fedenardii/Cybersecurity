@@ -104,7 +104,7 @@ identità digitale
 | 9     | Software, malware e security by design |
 | 10    | Blockchain e proof of work             |
 | 11    | AI e cybersecurity                     |
-| 12    | Conclusioni e frasi da ripetere        |
+| 12    | Conclusioni         |
 
 ---
 
