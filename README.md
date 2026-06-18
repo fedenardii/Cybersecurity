@@ -156,5 +156,3 @@ non vendibile
 
 Ho creato questa dispensa per studiare meglio i corsi, collegare gli argomenti e avere un supporto unico per il ripasso.
 
-> 🔐 La prima difesa è capire il rischio.
-> ::: 
